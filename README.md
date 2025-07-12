@@ -38,7 +38,7 @@
     * Penanganan *Promise* di balik layar `async/await`.
 9.  **DOM & BOM:**
     * **DOM (Document Object Model):** Berinteraksi dengan struktur HTML melalui JavaScript (memanipulasi elemen, atribut, dan *event*).
-    * **BOM (Browser Object Model):** Berinteraksi dengan fitur *browser* (sejarah, lokasi, *timers*).
+    * **BOM (Browser Object Model):** Berinteraksi dengan fitur *browser*.
 
 ---
 
