@@ -31,7 +31,7 @@ const hitungDiskon = (harga, diskon) => {
 const finalPrice = hitungDiskon(50000,10)
 console.log("Final price: " + finalPrice)
 
-// CHECKPOINT 3
+// CHECKPOINT 4
 
 const inputHarga = document.querySelector("#harga-awal")
 const inputDiskon = document.querySelector("#diskon")
